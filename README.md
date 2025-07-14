@@ -11,7 +11,7 @@ I am Steven Xie, currently a sophomore in WuHan University, majoring in Software
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dige945&layout=compact)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dige945&theme=transparent&hide_border=true&layout=compact&range=all_time&langs_count=22"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dige945&theme=transparent&hide_border=true&layout=compact&range=all_time&langs_count=22&v=2"/>
 
 
 # Tools
