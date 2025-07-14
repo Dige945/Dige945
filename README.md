@@ -9,4 +9,6 @@ I am Steven Xie, currently a sophomore in WuHan University, majoring in Software
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dige945&layout=compact)
 
+[![My Skills](https://skillicons.dev/icons?i=anaconda,c,cpp,css,docker,git,github,html,idea,,java,linux,md,matlab,mysql,nginx,nodejs,npm,opencv,ps,pr,pycharm,py,pytorch,qt,react,spring,vscode,visualstudio,vue,&perline=8)](https://skillicons.dev)
+
 
