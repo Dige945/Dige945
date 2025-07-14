@@ -1,5 +1,7 @@
 # Do not go gentle into that good night 👋
 
+[![wakatime](https://wakatime.com/badge/user/40285cda-890e-4c6e-b188-e49ba65337a3.svg)](https://wakatime.com/@40285cda-890e-4c6e-b188-e49ba65337a3)
+
 I am Steven Xie, currently a sophomore in WuHan University, majoring in Software Engineering and pursuing a bacherlor's degree.
 
 - 🔭 I’m currently working on 404
