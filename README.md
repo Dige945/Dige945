@@ -9,3 +9,6 @@ I am Steven Xie, currently a sophomore in WuHan University, majoring in Software
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dige945)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dige945&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
